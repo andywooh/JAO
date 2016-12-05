@@ -1,0 +1,23 @@
+{
+	"student1":
+		{
+			"name":"andywooh",
+			"age":"26",
+			"gender":"male",
+			"address":"Baicao Road, 311th"
+		},
+	"student2":
+		{
+			"name":"kaikai",
+			"age":"3",
+			"gender":"male",
+			"address":"Baicao Road, 312th"
+		},
+	"student3":
+		{
+			"name":"tudou",
+			"age":"2",
+			"gender":"male",
+			"address":"Baicao Road, 313th"
+		}
+}

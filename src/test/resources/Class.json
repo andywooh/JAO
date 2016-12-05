@@ -1,0 +1,23 @@
+{
+	"classNum":6001,
+	"students":[ 
+		{ 
+			"name":"andywooh",
+			"age":"26",
+			"gender":"male",
+			"address":"Baicao Road, 311th"
+		},
+		{
+			"name":"kathy",
+			"age":"26",
+			"gender":"female",
+			"address":"Baicao Road, 312th"
+		},
+		{
+			"name":"yoyo",
+			"age":"3",
+			"gender":"male",
+			"address":"Baicao Road, 313th"
+		}
+	]
+}
